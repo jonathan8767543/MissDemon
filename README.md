@@ -12,7 +12,7 @@
 
 
 
-☆ Poered  by [Meme Hub](https://t.me/Memes_Hub_Group) ☆
+☆ Powered  by [Meme Hub](https://t.me/Memes_Hub_Group) ☆
 [Channel](https://t.me/Memes_Hub_Channel)
 ## New version Avaiilable on Telegram as [The-Miss-Demon](https://t.me/mISS_dEMONbOT)
 ## The-Miss-Demon is the latest
