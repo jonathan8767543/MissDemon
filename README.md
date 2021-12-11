@@ -1,6 +1,6 @@
 ## Miss Demon
 
-![GitHub repo size](https://img.shields.io/github/repo-size/onathan8767543/MissDemon?label=Repo%20Size) ![Last Commit](https://img.shields.io/github/last-commit/damantha126/The-Miss-Demon?color=red&label=Last%20commit&logo=Jonathan&logoColor=green)
+![GitHub repo size](https://img.shields.io/github/repo-size/jonathan8767543/MissDemon?label=Repo%20Size) ![Last Commit](https://img.shields.io/github/last-commit/jonathan8767543/The-Miss-Demon?color=red&label=Last%20commit&logo=Jonathan&logoColor=green)
 <p align="center">
   <img src="https://telegra.ph/file/65cf8f06e796610b9f62a.jpg" width='600"'>
 </p>
